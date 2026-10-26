@@ -1,0 +1,9 @@
+{
+  "nome": "V0",
+  "titulo": "uma sala, com gêmeo digital e espelho",
+  "descricao": "Versão V0 da automação: uma sala com uma porta, morador e Rex; gêmeo digital local e remoto; cômodo espelho (v0, v0dt, v0dta)",
+  "ambientes": [
+    "sala"
+  ],
+  "nucleo_tag": "nucleo-v1.0"
+}
